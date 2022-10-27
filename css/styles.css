@@ -83,3 +83,8 @@ p{
     color: #333;
     transition: 0.5s;
 }
+.button:hover{
+    background-color: chocolate;
+    color: #333;
+    transition: 0.5s;
+}
