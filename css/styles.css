@@ -46,7 +46,7 @@ p{
 
 .button{
     background-color:rgb(75, 73, 73);
-    color: rgb(255, 174, 0);
+    color:chocolate;
     font-family: Helvetica;
     font-size: 30px;
     width: 100px;
@@ -60,4 +60,26 @@ p{
     solid
     
     
+}
+
+.btn {background-color:rgb(75, 73, 73);
+    color:chocolate;
+    font-family: Helvetica;
+    font-size: 30px;
+    width: 140px;
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    border-radius: 10px;
+    border: 2px
+    solid
+    
+}
+
+.btn:hover{
+    background-color: chocolate;
+    color: #333;
+    transition: 0.5s;
 }
